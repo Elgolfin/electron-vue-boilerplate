@@ -6,6 +6,8 @@
 
 # electron-vue-boilerplate
 
+Based on https://github.com/bradstewart/electron-boilerplate-vue/
+
 ## Development environment setup
 
 - git clone https://github.com/Elgolfin/electron-vue-boilerplate.git
